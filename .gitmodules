@@ -1,0 +1,3 @@
+[submodule "Plugins/UGearsetTaskNodes"]
+	path = Plugins/UGearsetTaskNodes
+	url = https://github.com/noslopforever/UGearsetTaskNodes
